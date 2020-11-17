@@ -1,6 +1,0 @@
-module Pods_FEReactNative {
-  umbrella header "Pods-FEReactNative-umbrella.h"
-
-  export *
-  module * { export * }
-}
